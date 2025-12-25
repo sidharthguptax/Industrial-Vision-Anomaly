@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv
+vision-anomaly/
+
+# Data
+data/
+*.zip
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
